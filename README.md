@@ -4,3 +4,11 @@ This project is a creation of a 2D game, the project was created using C# while 
 
 ## How to Run
 To run this game, you would need to install the Microsoft XNA framework and run the code in a compatible development environment such as Microsoft Visual Studio.
+
+ - Clone the repository containing the game code onto your local machine using the appropriate method (ex: git clone https://github.com/Anthonygtz/DoodleJump-2.0.git)
+ - Open the repository folder in your preferred Python IDE
+ - Run the file using the IDE's run command
+ - Run the file and follow the prompts
+
+## Other Resources
+Libraries:
